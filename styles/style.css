@@ -43,6 +43,7 @@ body {
   border-radius: 1.5rem;
   overflow: hidden;
   gap: 2.4rem;
+  box-shadow: 0px 50px 100px -20px rgba(8, 70, 94, 0.504835);
 }
 
 /* CARD - HEADER */
