@@ -85,10 +85,11 @@ body {
 
 .user-card__primary-info .user-name {
   font-weight: 700;
-  margin-bottom: 0.8rem;
+  margin-bottom: 1.3rem;
   color: var(--dark-blue);
 }
 .user-card__primary-info .user-age {
+  margin-left: 0.9rem;
   font-weight: 500;
   color: var(--gray-blue);
 }
